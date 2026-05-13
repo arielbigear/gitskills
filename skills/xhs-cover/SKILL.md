@@ -172,7 +172,7 @@ with sync_playwright() as p:
     browser.close()
 ```
 
-默认保存到 `~/Documents/Obsidian Vault/xhs/img/cover-{简短标识}.png`。
+默认保存到 `~/Documents/obsidian-人设素材库/小红书/img/cover-{简短标识}.png`。
 
 ### 步骤 5：展示
 用 Read 工具展示生成的图片给用户，询问是否需要调整。

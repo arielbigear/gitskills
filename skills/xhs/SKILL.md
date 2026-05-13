@@ -10,7 +10,7 @@ allowed-tools: Bash, Read, Write, Edit, Glob, Grep
 
 ## 常量定义
 - Cookies 文件: `~/cookies.json`（从 Chrome 导出的小红书 cookies）
-- Obsidian 保存目录: `~/Documents/Obsidian Vault/xhs`
+- Obsidian 保存目录: `~/Documents/obsidian-人设素材库/小红书`
 - Whisper 模型: `mlx-community/whisper-large-v3-turbo`
 
 ## 输入

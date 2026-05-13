@@ -9,7 +9,7 @@ allowed-tools: Bash, Read, Glob, Grep
 用户希望对已提取的小红书收藏做 AI 分析。
 
 ## 常量定义
-- Obsidian 保存目录: `~/Documents/Obsidian Vault/xhs`
+- Obsidian 保存目录: `~/Documents/obsidian-人设素材库/小红书`
 
 ## 输入
 用户查询: $ARGUMENTS
